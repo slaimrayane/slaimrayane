@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm slaim rayane</h1>
-<h3 align="center">A computer science engineering student from Algeria</h3>
+<h3 align="center">A computer science student from Algeria</h3>
 
 - 📫 How to reach me **mr_slaim@esi.dz**
 
