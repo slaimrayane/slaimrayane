@@ -70,15 +70,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slaimrayane&show_icons=true&theme=default&hide_border=true&locale=fr" alt="Stats GitHub de slaimrayane" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slaimrayane&layout=compact&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
-</p>
 
 ---
 
